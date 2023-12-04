@@ -111,7 +111,7 @@ header,
 
 .hero {
   position: relative;
-  background-image: url(../Landing/images/image\ 4.3.jpg);
+  background-image: url(./images/image\ 4.3.jpg);
   background-size: cover;
   height: 707px;
 }
